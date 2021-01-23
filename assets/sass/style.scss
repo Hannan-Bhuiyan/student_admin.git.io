@@ -1,0 +1,14 @@
+// variable and mixins css =============>>>>>>>>>>>>
+
+@import "sub-stylesheet/variable";
+@import "sub-stylesheet/mixins";
+
+// core css ===============>>>>>>>>>>>>>
+
+@import "sub-stylesheet/header";
+@import "sub-stylesheet/common";
+@import "sub-stylesheet/main";
+@import "sub-stylesheet/mobile_nav";
+@import "sub-stylesheet/footer";
+
+
